@@ -3,7 +3,10 @@ name = "minigrep"
 version = "0.1.0"
 authors = ["Matic <matic.drobez@gmail.com>"]
 edition = "2018"
-
+keywords = ["simple", "grep", "console", "application"]
+description = "Simple console application which is equivalent already known grep tool"
+license = "MIT"
+readme = "readme.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
